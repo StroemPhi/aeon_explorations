@@ -1,14 +1,19 @@
-b#
+# 
 # Where and when does an academic event take place?
-# Who is involved in the realization of the socio-cultural event?
-#	What kind of objectives are planned to be achieved in the realization of the socio-cultural event?
-#	What kind of actions are needed to achieve the planned objectives in the realization of the socio-cultural event?
-#	and conditions were achieved in the realization of the socio-cultural event?
-# 	How was the event sponsored to be realized?
+# Who is involved in the realization of an academic event or an academic event series?
+#	What kind of objectives are planned to be achieved in the realization of an academic event or series?
+#	What kind of actions are needed to achieve the planned objectives in the realization of an academic event or series?
+#	What kind of conditions are needed to achieve the planned objectives in the realization of an academic event or series?
 #	Who has contributed to the event and how?
+#		How was the event sponsored to be realized?
+# 			Who are the sponsors and in how far did they contribute?
+# 				Who are the funders and under what fund/grant identifier is the funding filed?
 # What are the outcomes of the event?
-#
-#
+# How can a possible contributor of an academic event decide if it is legit or if it might be a predatory event?
+# 	What kind of metrics can an academic event have?
+# 		What is the number of submitted, rejected and accepted papers and what is the acceptance rate?
+#  		How often is the event cited or referenced in scientific publications?
+# 			How can the scientific impact of an event be expressed?
 
 An academic event is a planned process
   to which a certain set of people or organizations contribute 
@@ -19,5 +24,5 @@ An academic event is a planned process
             - to present and discuss or learn about certain research results and related facts and
             - to maintain old or build new personal and professional relationships with other attendees of the academic event.
           
-The academic event roles inhering in the contributors of an academic event are distinguised by certain dispositions and capabilities of the contributors. These dispositions and capabilities are in turn specified or concretized by information content entities
+The roles inhering in the contributors of an academic event are distinguised by certain dispositions and capabilities of the contributors. These dispositions and capabilities are in turn specified or concretized by certain generically dependend continuants.
 
