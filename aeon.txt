@@ -1,0 +1,26 @@
+# competency questions that make up the semantic specifications of an academic event and event series
+#
+# Where and when does an academic event take place?
+# Who is involved in the realization of the socio-cultural event?
+#	What kind of objectives are planned to be achieved in the realization of the socio-cultural event?
+#	What kind of actions are needed to achieve the planned objectives in the realization of the socio-cultural event?
+#	and conditions were achieved in the realization of the socio-cultural event?
+# 	How was the event sponsored to be realized?
+#	Who has contributed to the event and how?
+# What are the outcomes of the event?
+#
+#
+
+An academic event is a planned process
+  to which a certain set of people or organizations contribute 
+    by realizing their diffenrent roles according to some kind of plan
+      which is concretized by certain objective, action and condition specifications
+        that facilitate various kinds of human communication processes 
+          in which the participants have the opportunity 
+            - to present and discuss or learn about certain research results and related facts and
+            - to maintain old or build new personal and professional relationships with other attendees of the academic event and capabilities.
+          
+
+
+
+These academic event roles are distinguised by the dispositions and capabilities of their bearer. These dispositions and capabilities are in turn specified or concretized 
