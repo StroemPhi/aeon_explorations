@@ -1,4 +1,3 @@
-# 
 # Where and when does an academic event take place?
 # Who is involved in the realization of an academic event or an academic event series?
 #	What kind of objectives are planned to be achieved in the realization of an academic event or series?
